@@ -14,7 +14,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.8"
-websockets = "^9.1"
+websockets = ">=9.1"
 python-dateutil = "^2.8.1"
 
 [tool.poetry.dev-dependencies]
